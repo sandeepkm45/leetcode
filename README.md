@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sandeepkm45/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sandeepkm45/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sandeepkm45/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sandeepkm45/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sandeepkm45/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/sandeepkm45/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sandeepkm45/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
