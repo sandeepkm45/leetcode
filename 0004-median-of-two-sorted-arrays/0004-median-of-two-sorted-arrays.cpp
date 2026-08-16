@@ -10,13 +10,12 @@ public:
         }
         sort(v.begin(),v.end());
         int n = v.size();
-        int x=(n-1)/2;
-        cout<<x;
+
         if (n%2!=0){
-            return v.at(x);
+            return v.at((n-1)/2);
         }
         else{
-            return (v.at(x)+v.at(x+1))/2.000;
+            return (v.at((n-2)/2)+v.at(n/2))/2.000;
         }
 
     }
