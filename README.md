@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sandeepkm45/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sandeepkm45/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sandeepkm45/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sandeepkm45/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sandeepkm45/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sandeepkm45/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sandeepkm45/leetcode/tree/master/0136-single-number) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
