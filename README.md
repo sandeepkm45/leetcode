@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sandeepkm45/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sandeepkm45/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sandeepkm45/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 ## Array
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sandeepkm45/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/sandeepkm45/leetcode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
