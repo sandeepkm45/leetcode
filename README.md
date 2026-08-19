@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sandeepkm45/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/sandeepkm45/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sandeepkm45/leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
