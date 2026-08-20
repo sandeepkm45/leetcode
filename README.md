@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sandeepkm45/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/sandeepkm45/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/sandeepkm45/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandeepkm45/leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sandeepkm45/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
