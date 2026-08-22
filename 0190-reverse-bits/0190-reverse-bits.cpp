@@ -14,9 +14,6 @@ public:
             v.insert(v.begin(),0);
         }
         size = v.size();
-        // for (int i : v){
-        //     cout<<i<<" ";
-        // }
         for (int i=0; i<size; i++){
             if(v[i]==1){
                 sum = sum + x;
