@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sandeepkm45/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sandeepkm45/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sandeepkm45/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sandeepkm45/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sandeepkm45/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sandeepkm45/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepkm45/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
