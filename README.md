@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sandeepkm45/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sandeepkm45/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -115,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeepkm45/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
