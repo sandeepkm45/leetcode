@@ -57,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sandeepkm45/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sandeepkm45/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sandeepkm45/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sandeepkm45/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sandeepkm45/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/sandeepkm45/leetcode/tree/master/0765-couples-holding-hands) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
