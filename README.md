@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3903-smallest-stable-index-i](https://github.com/sandeepkm45/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sandeepkm45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sandeepkm45/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/sandeepkm45/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sandeepkm45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Ternary Search
 |  |
 | ------- |
