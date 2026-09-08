@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/sandeepkm45/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/sandeepkm45/leetcode/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/sandeepkm45/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
