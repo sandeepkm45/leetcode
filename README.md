@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sandeepkm45/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/sandeepkm45/leetcode/tree/master/2413-smallest-even-multiple) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3870-count-commas-in-range](https://github.com/sandeepkm45/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeepkm45/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepkm45/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3903-smallest-stable-index-i](https://github.com/sandeepkm45/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sandeepkm45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
