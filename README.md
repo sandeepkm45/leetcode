@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeepkm45/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sandeepkm45/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/sandeepkm45/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkm45/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeepkm45/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
