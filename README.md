@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepkm45/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sandeepkm45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeepkm45/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0867-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sandeepkm45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Interactive
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sandeepkm45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Doubly-Linked List
 |  |
 | ------- |
