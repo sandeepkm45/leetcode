@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sandeepkm45/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sandeepkm45/leetcode/tree/master/0836-rectangle-overlap) |
@@ -249,4 +250,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sandeepkm45/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
