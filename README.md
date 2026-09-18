@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sandeepkm45/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sandeepkm45/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sandeepkm45/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sandeepkm45/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sandeepkm45/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sandeepkm45/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sandeepkm45/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sandeepkm45/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sandeepkm45/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sandeepkm45/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sandeepkm45/leetcode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sandeepkm45/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sandeepkm45/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeepkm45/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sandeepkm45/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
@@ -123,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sandeepkm45/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandeepkm45/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sandeepkm45/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeepkm45/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sandeepkm45/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
