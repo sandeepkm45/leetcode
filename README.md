@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0765-couples-holding-hands](https://github.com/sandeepkm45/leetcode/tree/master/0765-couples-holding-hands) |
 ## Breadth-First Search
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sandeepkm45/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sandeepkm45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -301,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeepkm45/leetcode/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
