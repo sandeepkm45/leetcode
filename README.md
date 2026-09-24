@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/sandeepkm45/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sandeepkm45/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeepkm45/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3206-alternating-groups-i](https://github.com/sandeepkm45/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/sandeepkm45/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sandeepkm45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
