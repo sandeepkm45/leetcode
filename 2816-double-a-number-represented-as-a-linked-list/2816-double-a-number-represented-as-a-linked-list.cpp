@@ -42,7 +42,6 @@ public:
         
         ListNode *curr;
         while(temp!=NULL){
-            // carry = 0;
             int no = temp->val*2 + carry;
             if(no>=10) carry = 1;
             else carry = 0;
