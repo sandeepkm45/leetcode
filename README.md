@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sandeepkm45/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3206-alternating-groups-i](https://github.com/sandeepkm45/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sandeepkm45/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
