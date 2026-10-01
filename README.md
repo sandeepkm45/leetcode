@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/sandeepkm45/leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3870-count-commas-in-range](https://github.com/sandeepkm45/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeepkm45/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
