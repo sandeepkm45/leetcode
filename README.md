@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/sandeepkm45/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3206-alternating-groups-i](https://github.com/sandeepkm45/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sandeepkm45/leetcode/tree/master/0012-integer-to-roman) |
+| [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Pigeonhole Principle
 |  |
