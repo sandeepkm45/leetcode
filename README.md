@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0765-couples-holding-hands](https://github.com/sandeepkm45/leetcode/tree/master/0765-couples-holding-hands) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sandeepkm45/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sandeepkm45/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sandeepkm45/leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sandeepkm45/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sandeepkm45/leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -437,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sandeepkm45/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
