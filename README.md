@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandeepkm45/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sandeepkm45/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3206-alternating-groups-i](https://github.com/sandeepkm45/leetcode/tree/master/3206-alternating-groups-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sandeepkm45/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sandeepkm45/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sliding Window
 |  |
 | ------- |
