@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sandeepkm45/leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeepkm45/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/sandeepkm45/leetcode/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sandeepkm45/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepkm45/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0867-transpose-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sandeepkm45/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sandeepkm45/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sandeepkm45/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sandeepkm45/leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sandeepkm45/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -480,4 +486,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
