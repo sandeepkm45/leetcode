@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sandeepkm45/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sandeepkm45/leetcode/tree/master/0326-power-of-three) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sandeepkm45/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/sandeepkm45/leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sandeepkm45/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sandeepkm45/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sandeepkm45/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sandeepkm45/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sandeepkm45/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sandeepkm45/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
