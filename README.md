@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeepkm45/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sandeepkm45/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sandeepkm45/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2235-add-two-integers](https://github.com/sandeepkm45/leetcode/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sandeepkm45/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/sandeepkm45/leetcode/tree/master/2413-smallest-even-multiple) |
