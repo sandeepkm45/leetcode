@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/sandeepkm45/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2235-add-two-integers](https://github.com/sandeepkm45/leetcode/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sandeepkm45/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2409-count-days-spent-together](https://github.com/sandeepkm45/leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/sandeepkm45/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/sandeepkm45/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sandeepkm45/leetcode/tree/master/0012-integer-to-roman) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandeepkm45/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/sandeepkm45/leetcode/tree/master/2409-count-days-spent-together) |
 | [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Pigeonhole Principle
