@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sandeepkm45/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sandeepkm45/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sandeepkm45/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sandeepkm45/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sandeepkm45/leetcode/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/sandeepkm45/leetcode/tree/master/0670-maximum-swap) |
 | [0765-couples-holding-hands](https://github.com/sandeepkm45/leetcode/tree/master/0765-couples-holding-hands) |
+| [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandeepkm45/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
@@ -525,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/sandeepkm45/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
