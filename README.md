@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
 | [3206-alternating-groups-i](https://github.com/sandeepkm45/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/sandeepkm45/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sandeepkm45/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Interactive
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sandeepkm45/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -550,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
