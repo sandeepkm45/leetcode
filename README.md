@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sandeepkm45/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sandeepkm45/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sandeepkm45/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sandeepkm45/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sandeepkm45/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sandeepkm45/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sandeepkm45/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sandeepkm45/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sandeepkm45/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sandeepkm45/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeepkm45/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sandeepkm45/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sandeepkm45/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
@@ -557,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeepkm45/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeepkm45/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -574,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
