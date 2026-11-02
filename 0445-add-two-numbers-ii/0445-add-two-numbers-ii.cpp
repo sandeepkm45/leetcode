@@ -48,7 +48,7 @@ public:
         }
         while(temp1!=NULL){
             int sum = temp1->val + c;
-            if(sum > 9) c=1;
+            if(sum>9) c=1;
             else c=0;
             temp1->val = sum % 10;
             tempp = temp1;
