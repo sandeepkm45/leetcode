@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeepkm45/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sandeepkm45/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeepkm45/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sandeepkm45/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepkm45/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sandeepkm45/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sandeepkm45/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sandeepkm45/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sandeepkm45/leetcode/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sandeepkm45/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandeepkm45/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepkm45/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeepkm45/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sandeepkm45/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/3498-reverse-degree-of-a-string) |
