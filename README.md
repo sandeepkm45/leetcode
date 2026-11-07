@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sandeepkm45/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2740-find-the-value-of-the-partition](https://github.com/sandeepkm45/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepkm45/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sandeepkm45/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sandeepkm45/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2740-find-the-value-of-the-partition](https://github.com/sandeepkm45/leetcode/tree/master/2740-find-the-value-of-the-partition) |
 ## Quicksort
 |  |
 | ------- |
