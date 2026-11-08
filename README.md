@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandeepkm45/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/sandeepkm45/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sandeepkm45/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sandeepkm45/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sandeepkm45/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/sandeepkm45/leetcode/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/sandeepkm45/leetcode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/sandeepkm45/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sandeepkm45/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sandeepkm45/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sandeepkm45/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/sandeepkm45/leetcode/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/sandeepkm45/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sandeepkm45/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sandeepkm45/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sandeepkm45/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/sandeepkm45/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sandeepkm45/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/sandeepkm45/leetcode/tree/master/0765-couples-holding-hands) |
 | [0965-univalued-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/sandeepkm45/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sandeepkm45/leetcode/tree/master/0200-number-of-islands) |
 | [0765-couples-holding-hands](https://github.com/sandeepkm45/leetcode/tree/master/0765-couples-holding-hands) |
+| [1267-count-servers-that-communicate](https://github.com/sandeepkm45/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
