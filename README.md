@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/sandeepkm45/leetcode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeepkm45/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandeepkm45/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeepkm45/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/sandeepkm45/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1669-merge-in-between-linked-lists](https://github.com/sandeepkm45/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
