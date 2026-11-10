@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sandeepkm45/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3206-alternating-groups-i](https://github.com/sandeepkm45/leetcode/tree/master/3206-alternating-groups-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sandeepkm45/leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sandeepkm45/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sandeepkm45/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sandeepkm45/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/sandeepkm45/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sandeepkm45/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Depth-First Search
 |  |
 | ------- |
