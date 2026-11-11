@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/sandeepkm45/leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sandeepkm45/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/sandeepkm45/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeepkm45/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sandeepkm45/leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/sandeepkm45/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sandeepkm45/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sandeepkm45/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
