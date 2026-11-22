@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sandeepkm45/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sandeepkm45/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sandeepkm45/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sandeepkm45/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sandeepkm45/leetcode/tree/master/2409-count-days-spent-together) |
 | [2437-number-of-valid-clock-times](https://github.com/sandeepkm45/leetcode/tree/master/2437-number-of-valid-clock-times) |
