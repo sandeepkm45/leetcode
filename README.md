@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/sandeepkm45/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sandeepkm45/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2961-double-modular-exponentiation](https://github.com/sandeepkm45/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sandeepkm45/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/sandeepkm45/leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepkm45/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/sandeepkm45/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
+| [2961-double-modular-exponentiation](https://github.com/sandeepkm45/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sandeepkm45/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sandeepkm45/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sandeepkm45/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sandeepkm45/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2899-last-visited-integers](https://github.com/sandeepkm45/leetcode/tree/master/2899-last-visited-integers) |
+| [2961-double-modular-exponentiation](https://github.com/sandeepkm45/leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepkm45/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3894-traffic-signal-color](https://github.com/sandeepkm45/leetcode/tree/master/3894-traffic-signal-color) |
