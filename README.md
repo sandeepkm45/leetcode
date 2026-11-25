@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/sandeepkm45/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepkm45/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3804-number-of-centered-subarrays](https://github.com/sandeepkm45/leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/sandeepkm45/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sandeepkm45/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/sandeepkm45/leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sandeepkm45/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sandeepkm45/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3804-number-of-centered-subarrays](https://github.com/sandeepkm45/leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3945-digit-frequency-score](https://github.com/sandeepkm45/leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepkm45/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sandeepkm45/leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sandeepkm45/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3804-number-of-centered-subarrays](https://github.com/sandeepkm45/leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
