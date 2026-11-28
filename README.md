@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sandeepkm45/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sandeepkm45/leetcode/tree/master/0338-counting-bits) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sandeepkm45/leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sandeepkm45/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sandeepkm45/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sandeepkm45/leetcode/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sandeepkm45/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sandeepkm45/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sandeepkm45/leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sandeepkm45/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3804-number-of-centered-subarrays](https://github.com/sandeepkm45/leetcode/tree/master/3804-number-of-centered-subarrays) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/sandeepkm45/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
